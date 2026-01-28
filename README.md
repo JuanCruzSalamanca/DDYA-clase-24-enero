@@ -49,7 +49,7 @@ main()
 ```
 
 ### Diagrama
-<img src = "Diagrama1.png" width = "600">
+<img src = "Anexos/Diagrama1.png" width = "600">
 
 ## Ejercicio 2
 ### Procedimiento
@@ -93,3 +93,4 @@ main()
 <a id = "1">[1]</a>
 
 GeeksforGeeks. How to check if a given number is Fibonacci number? GeeksforGeeks. https://www.geeksforgeeks.org/dsa/check-number-fibonacci-number/. Published 23 de julio de 2025.
+
