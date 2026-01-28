@@ -1,4 +1,4 @@
-def num_primo(x):
+def num_primo(x:int) -> bool:
     cont = 0
     for i in range(0, x + 1):
         if x % i == 0:
