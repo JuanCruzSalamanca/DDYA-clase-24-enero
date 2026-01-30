@@ -87,7 +87,7 @@ main()
 ```
 
 ### Diagrama
-<img src = "">
+<img src = "Anexos/Diagrama2.png" width = "600">
 
 ## Bibliografia
 <a id = "1">[1]</a>
